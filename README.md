@@ -1,10 +1,10 @@
 # Título del trabajo
 
-Descripción breve del proyecto a realizar (2-3 frases).
+Liguilla de fútbol de cuatro equipos.
 
 ## Integrantes del equipo
 
-Nombres, apellidos, y usuario GitHub de los integrantes del equipo.
+Alejandro Sancho Miguel, usuario GitHub alejandrosanchom.
 
 ## Objetivos del trabajo
 
