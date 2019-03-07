@@ -1,5 +1,5 @@
 //Trabajo Liguilla 
-//PSHS MGV ASM
+//ASM
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -82,7 +82,7 @@ main ()
 					
 					fclose(pf);
 								
-					printf("\n¿Desea continuar con la Jornada 1?");
+					printf("\nÂ¿Desea continuar con la Jornada 1?");
 					scanf("%c",&J1);
 					fflush(stdin);
 					if((J1=='n')||(J1=='N'))break;
@@ -160,7 +160,7 @@ main ()
 				
 					fclose(pf1);
 					
-					printf("\n¿Desea continuar con la Jornada 2?");
+					printf("\nÂ¿Desea continuar con la Jornada 2?");
 					scanf("%c",&J2);
 					fflush(stdin);
 					if((J2=='n')||(J2=='N'))break;
@@ -238,7 +238,7 @@ main ()
 				
 					fclose(pf2);
 					
-					printf("\n¿Desea continuar con la Jornada 3?");
+					printf("\nÂ¿Desea continuar con la Jornada 3?");
 					scanf("%c",&J3);
 					fflush(stdin);
 					if((J3=='n')||(J3=='N'))break;
@@ -424,7 +424,7 @@ main ()
 				
 					fclose(pf1);
 					
-					printf("\n¿Desea continuar con la Jornada 2?");
+					printf("\nÂ¿Desea continuar con la Jornada 2?");
 					scanf("%c",&J2);
 					fflush(stdin);
 					if((J2=='n')||(J2=='N'))break;
@@ -502,7 +502,7 @@ main ()
 				
 					fclose(pf2);
 					
-					printf("\n¿Desea continuar con la Jornada 3?");
+					printf("\nÂ¿Desea continuar con la Jornada 3?");
 					scanf("%c",&J3);
 					fflush(stdin);
 					if((J3=='n')||(J3=='N'))break;
@@ -662,7 +662,7 @@ main ()
 				
 					fclose(pf2);
 					
-					printf("\n¿Desea continuar con la Jornada 3?");
+					printf("\nÂ¿Desea continuar con la Jornada 3?");
 					scanf("%c",&J3);
 					fflush(stdin);
 					if((J3=='n')||(J3=='N'))break;
@@ -872,7 +872,7 @@ main ()
 		}
 				
 	//Bucle 
-	printf("\n¿Desea hacer algo mas?");
+	printf("\nÂ¿Desea hacer algo mas?");
 	scanf("%c",&bucle);
 	fflush(stdin);
 	}while((bucle=='s')||(bucle=='S'));
